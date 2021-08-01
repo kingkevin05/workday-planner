@@ -1,7 +1,7 @@
 # workday-planner
 
 ## Description 
-  With this budget tracker app the user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online. Once you’ve made these changes, you’ll deploy the application to Heroku.
+  A simple calendar application that allows a user to save events for each hour of the day. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
  
   
   ## Table of Contents
